@@ -1,15 +1,9 @@
-/abstractClass/
-/accessSpecifiers/
-/accessTest/
-/arrayStudy/
-/casting/
-/collectionStudy/
-/constructor/
-/constructor_Study/
 /controlStatement/
 /dataTypes/
+/exception/
 /inheritance/
 /interfaceStudy/
+/logical/
 /loops/
 /methods/
 /polymorphism/
@@ -20,3 +14,6 @@
 /testing_batch/
 /thisAndSuperKeyword/
 /variable_study/
+/patterns/
+/pattern/
+/star_logic/
